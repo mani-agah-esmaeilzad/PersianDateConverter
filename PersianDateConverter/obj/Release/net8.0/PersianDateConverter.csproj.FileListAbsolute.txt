@@ -1,0 +1,11 @@
+C:\Users\msaga\Desktop\PersianDateConverter\PersianDateConverter\bin\Release\net8.0\PersianDateConverter.deps.json
+C:\Users\msaga\Desktop\PersianDateConverter\PersianDateConverter\bin\Release\net8.0\PersianDateConverter.dll
+C:\Users\msaga\Desktop\PersianDateConverter\PersianDateConverter\bin\Release\net8.0\PersianDateConverter.pdb
+C:\Users\msaga\Desktop\PersianDateConverter\PersianDateConverter\obj\Release\net8.0\PersianDateConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msaga\Desktop\PersianDateConverter\PersianDateConverter\obj\Release\net8.0\PersianDateConverter.AssemblyInfoInputs.cache
+C:\Users\msaga\Desktop\PersianDateConverter\PersianDateConverter\obj\Release\net8.0\PersianDateConverter.AssemblyInfo.cs
+C:\Users\msaga\Desktop\PersianDateConverter\PersianDateConverter\obj\Release\net8.0\PersianDateConverter.csproj.CoreCompileInputs.cache
+C:\Users\msaga\Desktop\PersianDateConverter\PersianDateConverter\obj\Release\net8.0\PersianDateConverter.dll
+C:\Users\msaga\Desktop\PersianDateConverter\PersianDateConverter\obj\Release\net8.0\refint\PersianDateConverter.dll
+C:\Users\msaga\Desktop\PersianDateConverter\PersianDateConverter\obj\Release\net8.0\PersianDateConverter.pdb
+C:\Users\msaga\Desktop\PersianDateConverter\PersianDateConverter\obj\Release\net8.0\ref\PersianDateConverter.dll

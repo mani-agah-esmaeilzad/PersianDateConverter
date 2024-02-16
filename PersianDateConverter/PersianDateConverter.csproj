@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>Persian date converter</Title>
+    <Authors>mani agah esmaeilzad</Authors>
+    <Description>This package can convert Gregorian date to Farsi and vice versa. Additionally, the package can perform validation to ensure that input dates are valid. This package will be very useful for developers who work with Iranian users. This package can also provide functions that specify public holidays in Iran. These features can be very useful for developers who need to process Persian history.</Description>
+    <Copyright>Copyright 2024</Copyright>
+    <PackageProjectUrl>https://github.com/mani-agah-esmaeilzad/PersianDateConverter</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/mani-agah-esmaeilzad/PersianDateConverter</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
