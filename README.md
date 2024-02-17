@@ -38,7 +38,7 @@ NuGet Link: https://www.nuget.org/packages/PersianDateConverter/
 If you wish to contribute to the development of this project, please fork and send pull requests. Additionally, you can report any bugs or suggestions through the Issues section.
 
 ## License
-This project is released under the MIT license. For more information, please read the LICENSE file.
+This project is released under the MIT license. For more information, please read the [LICENSE](https://choosealicense.com/licenses/mit/) file.
 
 ## Contact
 If you have any questions or feedback, feel free to reach out:
