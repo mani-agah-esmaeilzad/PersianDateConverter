@@ -1,6 +1,3 @@
-Sure, here is the updated README.md for version 1.1 of the PersianDateConverter:
-
-```markdown
 # PersianDateConverter
 
 ## Description
