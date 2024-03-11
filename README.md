@@ -32,6 +32,13 @@ Console.WriteLine(gregorianDate); // Outputs: 3/21/2021 12:00:00 AM
 DateTime date = new DateTime(2021, 3, 21);
 string PersianDate = Converter.ToPersian(date);
 Console.WriteLine(persianDate); // Outputs: 1/1/1400
+
+string persianDateShort = Converter.ToPersianShort(date);
+Console.WriteLine(persianDateShort); // Outputs: 1402/12/20
+
+// استفاده از تابع ToPersianLong
+string persianDateLong = Converter.ToPersianLong(date);
+Console.WriteLine(persianDateLong); // Outputs: 1402/12/20 12:00:00 AM
 ```
 ## Participation
 Any contribution to this project is welcome. To submit pull requests, please first create a branch and commit your changes to it.
