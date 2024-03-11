@@ -16,12 +16,23 @@ namespace PersianDateConverter
             return pc.ToDateTime(year, month, day, 0, 0, 0, 0);
         }
 
-        public static string ToPersian(DateTime date)
+        public static string ToPersianShort(DateTime date)
         {
             int year = pc.GetYear(date);
             int month = pc.GetMonth(date);
             int day = pc.GetDayOfMonth(date);
             return $"{year}/{month}/{day}";
+        }
+
+        public static string ToPersianLong(DateTime date)
+        {
+            int year = pc.GetYear(date);
+            int month = pc.GetMonth(date);
+            int day = pc.GetDayOfMonth(date);
+            int hour = pc.GetHour(date);
+            int minute = pc.GetMinute(date);
+            int second = pc.GetSecond(date);
+            return $"{year}/{month}/{day} {hour}:{minute}:{second}";
         }
 
         public static bool IsValidPersianDate(string persianDate)

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>PersianDateConverter</id>
+    <version>1.0.0</version>
+    <title>Persian date converter</title>
+    <authors>mani agah esmaeilzad</authors>
+    <projectUrl>https://github.com/mani-agah-esmaeilzad/PersianDateConverter</projectUrl>
+    <description>This package can convert Gregorian date to Farsi and vice versa. Additionally, the package can perform validation to ensure that input dates are valid. This package will be very useful for developers who work with Iranian users. This package can also provide functions that specify public holidays in Iran. These features can be very useful for developers who need to process Persian history.</description>
+    <copyright>Copyright 2024</copyright>
+    <repository type="git" url="https://github.com/mani-agah-esmaeilzad/PersianDateConverter" commit="4f69e25df1a22a01b3a1b759c6bf2564d5d06127" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\msaga\Desktop\PersianDateConverter\PersianDateConverter\bin\Debug\net8.0\PersianDateConverter.dll" target="lib\net8.0\PersianDateConverter.dll" />
+  </files>
+</package>
