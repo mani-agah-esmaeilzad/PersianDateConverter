@@ -1,8 +1,15 @@
+Sure, here is the updated README.md for version 1.1 of the PersianDateConverter:
+
+```markdown
 # PersianDateConverter
 
 ## Description
 
 This library is designed to convert new dates to Farsi and vice versa, as well as evaluate the validity of the input date to ensure that the input date is valid. This library will be very useful for developers who work with Iranian users. This package can provide functions that specify public holidays in Iran.
+
+## Version
+
+This is version 1.1 of the PersianDateConverter.
 
 ## Installation
 
@@ -29,7 +36,7 @@ DateTime date = new DateTime(2021, 3, 21);
 string PersianDate = Converter.ToPersian(date);
 Console.WriteLine(persianDate); // Outputs: 1/1/1400
 ```
-## participation
+## Participation
 Any contribution to this project is welcome. To submit pull requests, please first create a branch and commit your changes to it.
 
 NuGet Link: https://www.nuget.org/packages/PersianDateConverter/
@@ -49,5 +56,5 @@ Contact us: https://maniagah.ir/home/Contact
 
 Instagram: @mani.aspx
 
-
 We welcome your collaboration to improve this application!
+```
