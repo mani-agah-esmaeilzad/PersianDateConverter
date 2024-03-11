@@ -36,7 +36,6 @@ Console.WriteLine(persianDate); // Outputs: 1/1/1400
 string persianDateShort = Converter.ToPersianShort(date);
 Console.WriteLine(persianDateShort); // Outputs: 1402/12/20
 
-// استفاده از تابع ToPersianLong
 string persianDateLong = Converter.ToPersianLong(date);
 Console.WriteLine(persianDateLong); // Outputs: 1402/12/20 12:00:00 AM
 ```
@@ -61,4 +60,3 @@ Contact us: https://maniagah.ir/home/Contact
 Instagram: @mani.aspx
 
 We welcome your collaboration to improve this application!
-```
