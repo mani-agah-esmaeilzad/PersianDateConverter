@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Globalization;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace PersianDateConverter
 {
@@ -57,9 +58,12 @@ namespace PersianDateConverter
 
             string[] persianMonths = new string[] { "فروردین", "اردیبهشت", "خرداد", "تیر", "مرداد", "شهریور", "مهر", "آبان", "آذر", "دی", "بهمن", "اسفند" };
             string monthName = persianMonths[month - 1];
-
             return $"{day} {monthName} {year}";
         }
 
+        public static string ToGregorianWithWords(DateTime date)
+        {
+
+        }
     }
 }
