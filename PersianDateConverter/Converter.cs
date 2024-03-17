@@ -50,7 +50,10 @@ namespace PersianDateConverter
         }
         public static string ToPersianDateWithWords(string persianDate)
         {
-            
+            string[] parts = persianDate.Split('/');
+            int year = int.Parse(parts[0]);
+            int month = int.Parse(parts[1]);
+            int day = int.Parse(parts[2]);
         }
 
     }
