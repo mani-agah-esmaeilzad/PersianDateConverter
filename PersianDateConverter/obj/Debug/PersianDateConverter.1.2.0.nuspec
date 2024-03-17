@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
     <id>PersianDateConverter</id>
-    <version>1.0.0</version>
+    <version>1.2.0</version>
     <title>Persian date converter</title>
     <authors>mani agah esmaeilzad</authors>
     <projectUrl>https://github.com/mani-agah-esmaeilzad/PersianDateConverter</projectUrl>
