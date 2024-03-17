@@ -63,7 +63,10 @@ namespace PersianDateConverter
 
         public static string ToGregorianWithWords(DateTime date)
         {
+            string[] months = new string[] { "January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December" };
 
+            string monthName = months[date.Month - 1];
+            return $"{date.Day} {monthName} {date.Year}";
         }
     }
 }
