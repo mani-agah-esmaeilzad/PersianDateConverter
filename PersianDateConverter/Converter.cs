@@ -54,6 +54,9 @@ namespace PersianDateConverter
             int year = int.Parse(parts[0]);
             int month = int.Parse(parts[1]);
             int day = int.Parse(parts[2]);
+
+            string[] persianMonths = new string[] { "فروردین", "اردیبهشت", "خرداد", "تیر", "مرداد", "شهریور", "مهر", "آبان", "آذر", "دی", "بهمن", "اسفند" };
+            string monthName = persianMonths[month - 1];
         }
 
     }
