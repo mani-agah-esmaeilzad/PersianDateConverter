@@ -6,7 +6,7 @@ This library is designed to convert new dates to Farsi and vice versa, as well a
 
 ## Version
 
-This is version 1.1 of the PersianDateConverter.
+This is version 1.2.0 of the PersianDateConverter.
 
 ## Installation
 
@@ -38,6 +38,12 @@ Console.WriteLine(persianDateShort); // Outputs: 1402/12/20
 
 string persianDateLong = Converter.ToPersianLong(date);
 Console.WriteLine(persianDateLong); // Outputs: 1402/12/20 12:00:00 AM
+
+string persianDateWithWords = Converter.ToPersianDateWithWords("1402/12/01");
+Console.WriteLine(persianDateWithWords); // Outputs: یکم فروردین هزار و چهارصد و یک
+
+string gregorianDateWithWords = Converter.ToGregorianWithWords(new DateTime(2024, 1, 1));
+Console.WriteLine(gregorianDateWithWords); // Outputs: 1 January 2024
 ```
 ## Participation
 Any contribution to this project is welcome. To submit pull requests, please first create a branch and commit your changes to it.
