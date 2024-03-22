@@ -63,6 +63,6 @@ Email: maniagahdev@gmail.com
 
 Contact us: https://maniagah.ir/home/Contact
 
-Instagram: www.instagram
+Instagram: www.instagram/mani.aspx
 
 We welcome your collaboration to improve this application!
