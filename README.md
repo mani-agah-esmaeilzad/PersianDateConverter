@@ -6,7 +6,7 @@ This library is designed to convert new dates to Farsi and vice versa, as well a
 
 ## Version
 
-This is version 1.2.0 of the PersianDateConverter.
+This is version 1.2.0 of the PersianDateConverter
 
 ## Installation
 
@@ -21,7 +21,7 @@ To use this package, add the following code to your project:
 ```csharp
 using PersianDateConverter;
 ```
-Then you can use the functions in the ```Converter``` class.
+Then you can use the functions in the ```Converter``` class
 
 ## Example
 ```csharp
